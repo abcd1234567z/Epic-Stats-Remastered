@@ -7,4 +7,3 @@ added new entry to compat negator
 added tag and exp type
 added trigger when player enter world to avoid book bug
 added gui info for stats
-added weight limit default value
